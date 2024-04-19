@@ -13,4 +13,4 @@ our project code, references, details etc
 8. Perihelion Time: The time of perihelion passage of the NEO's orbit.
 9. Mean Anomaly: The mean anomaly of the NEO's orbit, representing the fraction of the orbital period that has elapsed since the last perihelion passage.
 10. Mean Motion: The mean motion of the NEO's orbit, representing the average angular velocity of the NEO along its orbit.
-11. Hazardous: A binary indicator that specifies whether the NEO is classified as hazardous or not based on its orbit and size. A value of "1" indicates that the NEO is classified as hazardous, while a value of "0" indicates that it is not considered hazardous.
+11. Hazardous: A binary indicator that specifies whether the NEO is classified as hazardous or not based on its orbit and size. A value of "1"/True indicates that the NEO is classified as hazardous, while a value of "0"/False indicates that it is not considered hazardous.
