@@ -8,36 +8,36 @@ This is a mini project for the module, Introduction to Data Science & Artificial
 Viewed in the following order: 
 
 1. [Data Cleaning](https://github.com/afreenrafi/SC1015-Project/blob/main/Data%20Cleaning.ipynb)
-    - we cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
-    - definitions of our variables are given under "Dataset Columns With Definitions"
+    - Cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
+    - Definitions of our variables are given under "Dataset Columns With Definitions"
 
 2. [Data Splitting and Resampling](https://github.com/afreenrafi/SC1015-Project/blob/main/Data%20Splitting%20And%20Resampling.ipynb)
-    - we split our dataset into train and test sets
-    - we resampled our data into 4 different datasets: Original, Oversampled, SMOTETomek, Bootstrapping
+    - Split our dataset into train and test sets
+    - Resampled our data into 4 different datasets: Original, Oversampled, SMOTETomek, Bootstrapping
 
 3. [Exploratory Analysis](https://github.com/afreenrafi/SC1015-Project/blob/main/Exploratory%20Analysis.ipynb)
-    - created an Impact Risk column 
-    - basic statistics on our dataset
-    - compared different variables with Impact Risk using violin plot, histogram and box plot 
-    - used pair plot to compare all variables against one another 
-    - used bar plot heat map to find correlation between variables and Impact Risk 
-    - categroised Impact Risk into: Low, Medium, High
-    - used strip plot to compare variables with Impact Risk categories 
+    - Created an Impact Risk column 
+    - Basic statistics on our dataset
+    - Compared different variables with Impact Risk using violin plot, histogram and box plot 
+    - Used pair plot to compare all variables against one another 
+    - Used bar plot heat map to find correlation between variables and Impact Risk 
+    - Categroised Impact Risk into: Low, Medium, High
+    - Used strip plot to compare variables with Impact Risk categories 
 
 4. [Logistic Regression](https://github.com/afreenrafi/SC1015-Project/blob/main/Logistic%20Regression.ipynb)
-    - imported 4 different train datasets (original and resampled)
-    - calulated metrics: Accuracy, Precision, Recall and F1-Score 
-    - plotted confusion matrixes 
-    - plotted ROC curves
+    - Imported 4 different train datasets (original and resampled)
+    - Calulated metrics: Accuracy, Precision, Recall and F1-Score 
+    - Plotted confusion matrixes 
+    - Plotted ROC curves
 
 5. [Neural Network](https://github.com/afreenrafi/SC1015-Project/blob/main/Neural%20Network.ipynb)
-    - imported 4 different train datasets (original and resampled)
-    - calulated metrics: Accuracy, Precision, Recall and F1-Score
-    - created neural network models for the 4 different datasets (original and resampled)
-    - plotted Loss, Accuracy, Precision and Recall histories 
-    - plotted train vs test performances 
-    - plotted test performances between different resampling methods 
-    - plotted training histories between different resampling methods 
+    - Imported 4 different train datasets (original and resampled)
+    - Calulated metrics: Accuracy, Precision, Recall and F1-Score
+    - Created neural network models for the 4 different datasets (original and resampled)
+    - Plotted Loss, Accuracy, Precision and Recall histories 
+    - Plotted train vs test performances 
+    - Plotted test performances between different resampling methods 
+    - Plotted training histories between different resampling methods 
 
 ## Contributers 
 - @gwenionna - EDA, Logistic Regression 
