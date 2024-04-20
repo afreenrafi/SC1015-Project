@@ -7,15 +7,15 @@ This is a mini project for the module, Introduction to Data Science & Artificial
 
 Viewed in the following order: 
 
-1. Data Cleaning 
+1. [Data Cleaning](https://github.com/afreenrafi/SC1015-Project/blob/main/Data%20Cleaning.ipynb)
     - we cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
     - definitions of our variables are given under "Dataset Columns With Definitions"
 
-2. Data Splitting and Resampling
+2. [Data Splitting and Resampling](https://github.com/afreenrafi/SC1015-Project/blob/main/Data%20Splitting%20And%20Resampling.ipynb)
     - we split our dataset into train and test sets
     - we resampled our data into 4 different datasets: Original, Oversampled, SMOTETomek, Bootstrapping
 
-3. Exploratory Analysis 
+3. [Exploratory Analysis](https://github.com/afreenrafi/SC1015-Project/blob/main/Exploratory%20Analysis.ipynb)
     - created an Impact Risk column 
     - basic statistics on our dataset
     - compared different variables with Impact Risk using violin plot, histogram and box plot 
@@ -24,13 +24,13 @@ Viewed in the following order:
     - categroised Impact Risk into: Low, Medium, High
     - used strip plot to compare variables with Impact Risk categories 
 
-4. Logistic Regression 
+4. [Logistic Regression](https://github.com/afreenrafi/SC1015-Project/blob/main/Logistic%20Regression.ipynb)
     - imported 4 different train datasets (original and resampled)
     - calulated metrics: Accuracy, Precision, Recall and F1-Score 
     - plotted confusion matrixes 
     - plotted ROC curves
 
-5. Neural Network 
+5. [Neural Network](https://github.com/afreenrafi/SC1015-Project/blob/main/Neural%20Network.ipynb)
     - imported 4 different train datasets (original and resampled)
     - calulated metrics: Accuracy, Precision, Recall and F1-Score
     - created neural network models for the 4 different datasets (original and resampled)
