@@ -40,9 +40,9 @@ Viewed in the following order:
     - plotted training histories between different resampling methods 
 
 ## Contributers 
-@gwenionna - EDA, Logistic Regression 
-@ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
-@afreenrafi - EDA, Logistic Regression 
+- @gwenionna - EDA, Logistic Regression 
+- @ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
+- @afreenrafi - EDA, Logistic Regression 
 
 ## Problem Statement 
 How might we predict which NEOs pose a high risk of impact to Earth?
