@@ -7,7 +7,7 @@ This is a mini project for the module, Introduction to Data Science & Artificial
 
 Viewed in the following order: 
 
-1. Data Cleaning 
+1. [Data Cleaning](C:\Users\afree\OneDrive\Documents\GitHub\SC1015-Project\Data Cleaning.ipynb) 
     - cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
     - definitions of our variables are given under "Dataset Columns With Definitions"
 
