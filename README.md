@@ -8,7 +8,7 @@ This is a mini project for the module, Introduction to Data Science & Artificial
 Viewed in the following order: 
 
 1. Data Cleaning 
-    - we cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
+    - cleaned our data by removing irrelevant columns, removing any duplicates, removed outliers and null datapoints 
     - definitions of our variables are given under "Dataset Columns With Definitions"
 
 2. Data Splitting and Resampling
@@ -40,9 +40,9 @@ Viewed in the following order:
     - plotted training histories between different resampling methods 
 
 ## Contributers 
-@gwenionna - EDA, Logistic Regression 
-@ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
-@afreenrafi - EDA, Logistic Regression 
+- @gwenionna - EDA, Logistic Regression 
+- @ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
+- @afreenrafi - EDA, Logistic Regression 
 
 ## Problem Statement 
 How might we predict which NEOs pose a high risk of impact to Earth?
