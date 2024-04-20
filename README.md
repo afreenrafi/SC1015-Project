@@ -26,7 +26,7 @@ Viewed in the following order:
 
 4. [Logistic Regression](https://github.com/afreenrafi/SC1015-Project/blob/main/Logistic%20Regression.ipynb)
     - Imported 4 different train datasets (original and resampled)
-    - Calulated metrics: Accuracy, Precision, Recall and F1-Score 
+    - Calculated metrics: Accuracy, Precision, Recall and F1-Score 
     - Plotted confusion matrixes 
     - Plotted ROC curves
 
