@@ -28,7 +28,7 @@ Viewed in the following order:
     - Imported 4 different train datasets (original and resampled)
     - Calculated metrics: Accuracy, Precision, Recall and F1-Score 
     - Plotted confusion matrixes 
-    - Plotted ROC curves
+    - Plotted learning curves
 
 5. [Neural Network](https://github.com/afreenrafi/SC1015-Project/blob/main/Neural%20Network.ipynb)
     - Imported 4 different train datasets (original and resampled)
@@ -74,8 +74,9 @@ We generated different thresholds for the 3 levels of impact risk. We have added
 
 1. EDA techniques such as strip plots and bar plot heat maps
 2. Learnt how to resample data into oversampled, smotetomek and bootstrapped 
-3. Logistic Regression 
-4. Neural Network
+3. Logistic Regression
+4. Learnt to plot a learning curve for logistic regression 
+5. Neural Network
 
 ## References 
 
