@@ -60,6 +60,9 @@ How might we predict which NEOs pose a high risk of impact to Earth?
 10. Mean Motion: The mean motion of the NEO's orbit, representing the average angular velocity of the NEO along its orbit.
 11. Hazardous: A binary indicator that specifies whether the NEO is classified as hazardous or not based on its orbit and size. A value of "1"/True indicates that the NEO is classified as hazardous, while a value of "0"/False indicates that it is not considered hazardous.
 
+## Reasoning behind the classification of Low, Medium and High Impact Risks
+We generated different thresholds for the 3 levels of impact risk. We have added the histograms for our Impact Risk thresholds. Next, we used this thershold to categorise Low, Medium and High risks NEOs.
+
 ## Conclusion 
 
 1. Strong correlation between Impact Risk and characteristics of NEOs
