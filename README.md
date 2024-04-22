@@ -70,8 +70,9 @@ How might we predict which NEOs pose a high risk of impact to Earth?
 ## Things we learnt
 
 1. EDA techniques such as strip plots and bar plot heat maps
-2. Logistic Regression 
-3. Neural Network
+2. Learnt how to resample data into oversampled, smotetomek and bootstrapped 
+3. Logistic Regression 
+4. Neural Network
 
 ## References 
 
