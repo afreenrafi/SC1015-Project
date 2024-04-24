@@ -39,11 +39,6 @@ Viewed in the following order:
     - Plotted test performances between different resampling methods 
     - Plotted training histories between different resampling methods 
 
-## Contributers 
-- @gwenionna - EDA, Logistic Regression 
-- @ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
-- @afreenrafi - EDA, Logistic Regression 
-
 ## Problem Statement 
 How might we predict which NEOs pose a high risk of impact to Earth?
 
@@ -78,6 +73,11 @@ We generated different thresholds for the 3 levels of impact risk. We have added
 4. Learnt to plot a learning curve for logistic regression 
 5. Neural Network
 6. Bootstrpping is the best model for our dataset  
+
+## Contributers 
+- @gwenionna - EDA, Logistic Regression 
+- @ZhiXin18 - Data Cleaning, Data Splitting and Resampling, Neural Network
+- @afreenrafi - EDA, Logistic Regression
 
 ## References 
 
