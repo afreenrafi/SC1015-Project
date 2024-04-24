@@ -77,6 +77,7 @@ We generated different thresholds for the 3 levels of impact risk. We have added
 3. Logistic Regression
 4. Learnt to plot a learning curve for logistic regression 
 5. Neural Network
+6. Bootstrpping is the best model for our dataset  
 
 ## References 
 
